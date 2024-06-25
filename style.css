@@ -1,0 +1,56 @@
+body{
+  margin: 0;
+}
+
+h1{
+   padding: 25px;
+   margin: 0;
+}
+
+header{
+    height: 250px ; /*башни близнецы*/
+    background-color: rgb(0, 0, 0); /* я не расист*/
+    color: aliceblue; /*europapa*/
+    text-align: center;
+    font-size: 25px;
+
+    background-image: url(https://i.ytimg.com/vi/5m7LXzylrJI/mqdefault.jpg);
+    background-size: 60%;
+    background-position: center;
+
+    font-family: Comic Sans MS;
+
+}
+main{
+
+  height: 6900px;
+  background-color: rgb(0, 0, 0);
+  color: aliceblue;
+  text-align: center;
+  font-size: 35px;
+  padding: 10px;
+  background-image: url(https://us-tuna-sounds-images.voicemod.net/dea58c01-609b-47a9-9b26-506b9c235eaa-1677123544716.png);
+  background-size: 100%;
+  font-family: Comic Sans MS;
+  
+  display: flex;
+  
+
+}
+
+.left{
+    width: 50%;
+}
+
+.right{
+    width: 50%;
+}
+
+footer{
+  height: 1000px;
+  background-color: black;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  font-size: 10px;
+
+  }
